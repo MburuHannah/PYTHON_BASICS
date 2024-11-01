@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71f6576b-94dd-4386-9cf1-bc4e87c11634" name="Changes" comment="the basics of python from lists,sets,tuples,dictionaries,">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -52,6 +49,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -200,7 +198,7 @@
       <workItem from="1730092834070" duration="1569000" />
       <workItem from="1730094589700" duration="4623000" />
       <workItem from="1730345136296" duration="7466000" />
-      <workItem from="1730439518190" duration="341000" />
+      <workItem from="1730439518190" duration="896000" />
     </task>
     <task id="LOCAL-00001" summary="the basics of python from lists,sets,tuples,dictionaries,">
       <option name="closed" value="true" />
@@ -210,7 +208,39 @@
       <option name="project" value="LOCAL" />
       <updated>1730353672415</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="the basics of python from lists,sets,tuples,dictionaries,">
+      <option name="closed" value="true" />
+      <created>1730440092801</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730440092801</updated>
+    </task>
+    <task id="LOCAL-00003" summary="the basics of python from lists,sets,tuples,dictionaries,">
+      <option name="closed" value="true" />
+      <created>1730440159137</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730440159137</updated>
+    </task>
+    <task id="LOCAL-00004" summary="the basics of python from lists,sets,tuples,dictionaries,">
+      <option name="closed" value="true" />
+      <created>1730440183032</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730440183032</updated>
+    </task>
+    <task id="LOCAL-00005" summary="the basics of python from lists,sets,tuples,dictionaries,">
+      <option name="closed" value="true" />
+      <created>1730440215722</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730440215722</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
